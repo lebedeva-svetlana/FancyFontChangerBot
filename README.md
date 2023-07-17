@@ -1,4 +1,4 @@
-﻿# FancyFontsChangerBot
+﻿# FancyFontChangerBot
 Fancy font changer bot for Telegram.
 
 ## Used Fonts
