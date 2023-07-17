@@ -1,0 +1,9 @@
+{
+  "name": "fancy-font-changer-bot",
+  "version": "1.0.0",
+  "description": "FancyFontChangerBot",
+  "main": "bot.js",
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  }
+}
