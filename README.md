@@ -1,6 +1,6 @@
 ﻿# Fancy Font Changer Bot
  
-[![License](https://img.shields.io/badge/License-GPL_3.0-green.svg)]([https://shields.io/](https://github.com/lebedeva-svetlana/NameGeneratorLib/blob/main/LICENSE.md)) [![UI Language](https://img.shields.io/badge/UI_Language-RU-yellow.svg)]([https://shields.io/])
+[![Node.js Version](https://img.shields.io/badge/Version-Node.js_21.2.0-blue.svg)]([https://shields.io/](https://dotnet.microsoft.com/)) [![License](https://img.shields.io/badge/License-GPL_3.0-green.svg)]([https://shields.io/](https://github.com/lebedeva-svetlana/NameGeneratorLib/blob/main/LICENSE.md)) [![UI Language](https://img.shields.io/badge/UI_Language-RU-yellow.svg)]([https://shields.io/])
 
 ## Overview
 
