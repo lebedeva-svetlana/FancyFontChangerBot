@@ -1,4 +1,9 @@
-﻿# FancyFontChangerBot
+﻿# Fancy Font Changer Bot
+ 
+[![License](https://img.shields.io/badge/License-GPL_3.0-green.svg)]([https://shields.io/](https://github.com/lebedeva-svetlana/NameGeneratorLib/blob/main/LICENSE.md)) [![UI Language](https://img.shields.io/badge/UI_Language-RU-yellow.svg)]([https://shields.io/])
+
+## Overview
+
 Fancy font changer bot for Telegram.
 
 ## Used Fonts
