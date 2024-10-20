@@ -14,8 +14,10 @@ Fancy font changer bot for Telegram.
   
 - Create a bot in @BotFather.
 - Insert your bot token in the string `let BOT_TOKEN = ''` (`bot.js`).
-- Type in cmd `npm bot.js` (from the folder `src`).
+- Type in cmd `node bot.js` (from the folder `src`).
 - Send commands to your bot.
+
+![Example](https://github.com/user-attachments/assets/2ebfa31a-afbd-4602-afbb-5dd8562b6112)
 
 ## Commands
 
